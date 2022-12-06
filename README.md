@@ -14,7 +14,7 @@ forecasting_net_prophet.ipynb includes all the data handling, visualization, and
 
 - Time Series Model with Prophet
 
-- Forecasting Popularity with Propphet
+- Forecasting Popularity with Prophet
 
 - Forecasting Revenue by Time Series Models
 
